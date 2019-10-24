@@ -3,7 +3,7 @@
 - **Birth Date**: 19.06.1996
 - **Place of Birth**: Suez, Egypt
 
---- 
+___ 
 # Education
 <img align="right" width="60" src="GUC.png">
 
@@ -22,7 +22,7 @@
 - **Bachelor Thesis**: A Hybrid Approach for Constrained Deep Reinforcement Learning
 - **GPA**: 0.7 (GUC GPA Criterion), 1.0 (TUM GPA Criterion)
 
----
+___
 # Employment History
 <img align="right" width="60"  src="avelabs-logo.png">
 
