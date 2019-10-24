@@ -13,7 +13,7 @@
 
 ![GUC Graduation Image](Graduation_Image.jpg)
 
-<img align="left" width="70" style="padding: 0 15px;" src="tum_logo.svg">
+<img align="right" width="70" style="padding: 0 15px;" src="tum_logo.svg">
 
 ## Technical University in Munich (Mar.2018-Jul.2018)
 - **Bachelor Thesis**: A Hybrid Approach for Constrained Deep Reinforcement Learning
