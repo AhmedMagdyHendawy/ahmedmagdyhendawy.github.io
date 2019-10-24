@@ -25,8 +25,7 @@
 
 [Image Classification using Torchvision Pre-trained Models in a Single YonoArc Block
 "](https://medium.com/@ahmedmagdyattia1996/image-classification-using-torchvision-pre-trained-models-in-a-single-yonoarc-block)
-
-
+---
 ### YonoHub Developer Advocate Intern (Jun.2019-Sep.2019)
 #### Medium Articles
 <img align="left" width="40%" style="padding: 0 15px;" src="medium_article_1.jpeg">
