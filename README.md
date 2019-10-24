@@ -3,6 +3,7 @@
 - Birth Date: 19.06.1996.
 
 # Education
+<img align="left" width="10%" style="padding: 0 15px;" src="GUC.png">
 
 ## German University in Cairo (Sep.2014-Jul.2019) 
 - Bachelor of Science in Mechatronics Engineering
@@ -20,7 +21,7 @@
 
 ## Avelabs
 
-### YonoHub Developer Advocate <p align="right"> (Sep.2019-Present) </p>
+### YonoHub Developer Advocate 
 
 #### Medium Articles
 <img align="left" width="40%" style="padding: 0 15px;" src="medium_article_2.jpeg">
