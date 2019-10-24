@@ -4,7 +4,8 @@
 
 # Education
 
-## German University in Cairo               2014-2019 \LRCornerWallPaper{0.99}{0.jpeg}
+## German University in Cairo               2014-2019 
+\LRCornerWallPaper{0.99}{0.jpeg}
 - Bachelor of Science in Mechatronics Engineering
 - **Grade**: Excellent with the Highest Honor
 - **CGPA**: 0.83/0.7
