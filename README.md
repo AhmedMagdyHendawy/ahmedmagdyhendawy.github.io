@@ -19,7 +19,8 @@
 # Employment History
 
 ## Avelabs
-### YonoHub Developer Advocate <div style="text-align: left"> (Sep.2019-Present) </div>
+### YonoHub Developer Advocate 
+<div style="text-align: left"> (Sep.2019-Present) </div>
 #### Medium Articles
 <img align="left" width="40%" style="padding: 0 15px;" src="medium_article_2.jpeg">
 
