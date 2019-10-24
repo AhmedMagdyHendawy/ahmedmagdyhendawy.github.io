@@ -20,6 +20,7 @@
 - **GPA**: 0.7 (GUC GPA Criterion), 1.0 (TUM GPA Criterion)
 
 # Employment History
+<img align="left" width="10%" style="padding: 0 15px;" src="avelabs-logo.png">
 
 ## Avelabs
 
