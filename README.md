@@ -9,4 +9,6 @@
 - **Grade**: Excellent with the Highest Honor
 - **CGPA**: 0.83/0.7
 - **Rank**: Second Rank among 271 Students
-![GUC Graduation Image](https://github.com/AhmedMagdyHendawy/ahmedmagdyhendawy.github.io/blob/master/Graduation_Image.jpg)
+
+![GUC Graduation Image]
+(https://github.com/AhmedMagdyHendawy/ahmedmagdyhendawy.github.io/blob/master/Graduation_Image.jpg)
