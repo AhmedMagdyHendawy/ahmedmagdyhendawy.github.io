@@ -14,9 +14,9 @@
 
 ![GUC Graduation Image](Graduation_Image.jpg)
 
+---
 <img align="right" width="60" src="tum_logo.svg">
 
----
 ## Technical University in Munich (Mar.2018-Jul.2018)
 - **Bachelor Thesis**: A Hybrid Approach for Constrained Deep Reinforcement Learning
 - **GPA**: 0.7 (GUC GPA Criterion), 1.0 (TUM GPA Criterion)
