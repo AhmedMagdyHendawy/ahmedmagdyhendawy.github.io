@@ -26,6 +26,6 @@
 
 ### YonoHub Developer Advocate Intern (Jun.2019-Sep.2019)
 #### Medium Articles
-<img align="left" width="40%" src="medium_article_1.jpeg">
+<img align="left" width="40%" style="padding: 0 15px;" src="medium_article_1.jpeg">
 
 - ["nuScenes — Using Yonohub to develop, evaluate and benchmark over the cloud"](https://medium.com/@ahmedmagdyattia1996/nuscenes-using-yonohub-to-develop-evaluate-and-benchmark-over-the-cloud)
