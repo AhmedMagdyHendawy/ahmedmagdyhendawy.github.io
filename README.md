@@ -1,6 +1,7 @@
 # Personal Information
-- Full Name: Ahmed Magdy Ahmed Attia Hendawy
-- Birth Date: 19.06.1996.
+- **Full Name**: Ahmed Magdy Ahmed Attia Hendawy
+- **Birth Date**: 19.06.1996
+- **Place of Birth**: Suez, Egypt
 
 --- 
 # Education
