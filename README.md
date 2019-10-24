@@ -15,7 +15,7 @@ ___
 
 ![GUC Graduation Image](Graduation_Image.jpg)
 
-***
+
 <img align="right" width="60" src="tum_logo.svg">
 
 ## Technical University in Munich (Mar.2018-Jul.2018)
