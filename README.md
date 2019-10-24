@@ -3,7 +3,7 @@
 - Birth Date: 19.06.1996.
 
 # Education
-<img align="right;" width="60" style="padding: 0 15px;" src="GUC.png">
+<img align=";right" width="60" style="padding: 0 15px;" src="GUC.png">
 
 ## German University in Cairo (Sep.2014-Jul.2019) 
 - Bachelor of Science in Mechatronics Engineering 
