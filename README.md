@@ -6,7 +6,7 @@
 <img align="left" width="10%" style="padding: 0 15px;" src="GUC.png">
 
 ## German University in Cairo (Sep.2014-Jul.2019) 
-- Bachelor of Science in Mechatronics Engineering
+- Bachelor of Science in Mechatronics Engineering 
 - **Grade**: Excellent with the Highest Honor
 - **CGPA**: 0.83/0.7
 - **Rank**: Second Rank among 271 Students
