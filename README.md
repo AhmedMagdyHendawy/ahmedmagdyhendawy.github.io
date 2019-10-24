@@ -9,6 +9,6 @@
 - **Grade**: Excellent with the Highest Honor
 - **CGPA**: 0.83/0.7
 - **Rank**: Second Rank among 271 Students
-[1]: 0.jpeg =5x5 
+[1]: (0.jpeg =5x5) 
 
 ![GUC Graduation Image](Graduation_Image.jpg)
