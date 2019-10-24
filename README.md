@@ -3,7 +3,7 @@
 - Birth Date: 19.06.1996.
 
 # Education
-<img align="right" width="60" style="padding: 0 15px;" src="GUC.png">
+<img align="right;" width="60" style="padding: 0 15px;" src="GUC.png">
 
 ## German University in Cairo (Sep.2014-Jul.2019) 
 - Bachelor of Science in Mechatronics Engineering 
@@ -13,14 +13,14 @@
 
 ![GUC Graduation Image](Graduation_Image.jpg)
 
-<img align="right" width="60" style="padding: 0 15px;" src="tum_logo.svg">
+<img align="right;" width="60" style="padding: 0 15px;" src="tum_logo.svg">
 
 ## Technical University in Munich (Mar.2018-Jul.2018)
 - **Bachelor Thesis**: A Hybrid Approach for Constrained Deep Reinforcement Learning
 - **GPA**: 0.7 (GUC GPA Criterion), 1.0 (TUM GPA Criterion)
 
 # Employment History
-<img align="right" width="60" style="padding: 0 15px;" src="avelabs-logo.png">
+<img align="right;" width="60" style="padding: 0 15px;" src="avelabs-logo.png">
 
 ## Avelabs
 
