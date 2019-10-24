@@ -20,8 +20,10 @@
 
 ## Avelabs
 ### YonoHub Developer Advocate (Sep.2019-Present)
--
+#### Medium Articles
+1. [Image Classification using Torchvision Pre-trained Models in a Single YonoArc Block
+"](https://medium.com/@ahmedmagdyattia1996/image-classification-using-torchvision-pre-trained-models-in-a-single-yonoarc-block)
 
 ### YonoHub Developer Advocate Intern (Jun.2019-Sep.2019)
-#### Articles
-- Title: ["nuScenes — Using Yonohub to develop, evaluate and benchmark over the cloud"](https://medium.com/@ahmedmagdyattia1996/nuscenes-using-yonohub-to-develop-evaluate-and-benchmark-over-the-cloud)
+#### Medium Articles
+1. ["nuScenes — Using Yonohub to develop, evaluate and benchmark over the cloud"](https://medium.com/@ahmedmagdyattia1996/nuscenes-using-yonohub-to-develop-evaluate-and-benchmark-over-the-cloud)
