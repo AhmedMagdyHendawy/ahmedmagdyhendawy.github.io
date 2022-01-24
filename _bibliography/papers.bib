@@ -6,7 +6,62 @@
 @book{bsc_thesis,
   bibtex_show={true},
   title={A Hybrid Approach for Constrained Deep Reinforcement Learning},
+  abstract={Recently, deep reinforcement learning techniques have achieved tangible results for
+            learning high dimensional control tasks. Due to the trial and error interaction be-
+            tween the autonomous agent and the environment, the learning phase is uncon-
+            strained and limited to the simulator. Such exploration has an additional drawback
+            of consuming unnecessary samples at the beginning of the learning process. Model-
+            based algorithms, on the other hand, handle this issue by learning the dynamics
+            of the environment. However, model-free algorithms have a higher asymptotic per-
+            formance than the model-based one. Our contribution is to construct a hybrid
+            structured algorithm, that makes use of the benefits of both methods, to satisfy
+            constraint conditions throughout the learning process. We demonstrate the valid-
+            ity of our approach by learning a reachability task. The results show complete
+            satisfaction for the constraint condition, represented by a static obstacle, with less
+            number of samples and higher performance compared to state-of-the-art model-free
+            algorithms.},
   author={Hendawy, A.},
-  year={2018},
+  year={July 2018},
   publisher={TUM,}
+  pdf={A_Hybrid_Approach_for_Constrained_Deep_Reinforcement_Learning.pdf}
+}
+
+
+
+@book{rp_thesis,
+  bibtex_show={true},
+  title={Material Identification using MIMO Radars in Non-contact Dynamical Environments},
+  abstract={Identifying the material type of objects is one of the assets for a robust autonomous system.
+            This can be exemplified by an autonomous vehicle changes its speed given the material of the
+            ground, a robot vacuum switches between different operating modes based on the type of the
+            floor, or a rescuing robot detects the existence of humans under building debris. Computer
+            Vision (CV) is succeeding to outperform its peers in many real-life challenges. Although
+            Convolution Neural Network (CNN) achieves outstanding performance for material classi-
+            fication given images, it is limited to suitable lightening conditions, distinguishable object
+            textures, and unblocked objects. Given those limitations, images are no longer the appropri-
+            ate input for material classification. On the other hand, recent works utilize the Intermediate
+            Frequency (IF) radar signals for material classification to tackle the former limitations. The
+            IF signals are high variance in their nature as a result of many factors like oscillation or rela-
+            tive distance of the object in front of the radar. Different preprocessing techniques have been
+            used for having robust and low variant data fed to a Neural Network (NN) model. However, a
+            noticeable delay arises during inference. Therefore, we propose a radar-based material clas-
+            sifier which deals with IF signals yet is robust against its high variance. Moreover, former
+            works succeed in classifying various material types using the IF signals. However, the classi-
+            fication setting requires the object to be in contact with the radar. The burden of non-contact
+            classification has never been tackled by any former Deep Learning (DL) work. Accordingly,
+            a new learning setting is proposed to map the high variant non-contact input domain to a low
+            variant input domain as in the contact case. This approach treats the effect of the distance as
+            a noise that can be denoised by an appropriate architecture. A modified version of WaveNet
+            is adopted as our denoising architecture. As a result, a low intra-variance manifold of each
+            class is formed, which can be easily classified using a shallow NN. Since a public radar-based
+            dataset for material classification is not available for training and evaluation. To have a well-
+            defined benchmark, we present a radar-based material classification dataset collected using a
+            24 GHz Millimeter-wave (mmWave) radar. Since this is the first work to tackle the material
+            classification problem in the non-contact case, we lack a former work to compare against.
+            Thus, we adopt a well-known image classification family, ResNet [1] to be our baseline. Our
+            approach outperforms the classification baseline in terms of test accuracy. In addition, robust
+            performance is shown in a real-life scenario.},
+  author={Hendawy, A.},
+  year={April 2021},
+  publisher={University of Stuttgart,}
 }
