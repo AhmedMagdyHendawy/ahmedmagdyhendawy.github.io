@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Master Thesis Student at <a href="https://www.bosch.de/">BOSCH</a> and the <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a>.
+subtitle: Master Thesis Student at <a href="https://www.bosch.de/">BOSCH</a> and the <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a>.
 
 profile:
   align: right
