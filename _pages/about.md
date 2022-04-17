@@ -2,11 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master Thesis Student at <a href="https://www.bosch.de/">BOSCH</a> and the <a href="https://www.uni-stuttgart.de/en/">University of Stuttgart</a>.
+subtitle: <a href="https://www.ias.informatik.tu-darmstadt.de/Team/AhmedHendawy">Ph.D. Candidate</a> at LiteRL and <a href="https://www.ias.informatik.tu-darmstadt.de/">IAS</a> research groups, <a href="https://www.tu-darmstadt.de/">TU Darmstadt</a>.
+
 
 profile:
   align: right
-  image: pic.png
+  image: prof_pic.jpg
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
@@ -18,4 +19,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am a Mechatronics Engineer who works in the field of Robotics and Artificial Inteligence. Currently, I am conducting research in Computer Vision and Deep learning.
+I am a Mechatronics Engineer who works in the field of Robotics and Artificial Intelligence. I graduated from the German University in Cairo (GUC). I have a master's degree in Information Technology from the University of Stuttgart. Currently, I am pursuing a Ph.D. in Reinforcement Learning.
