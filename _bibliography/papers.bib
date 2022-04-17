@@ -3,14 +3,25 @@
 
 
 @article{cfa,
-  doi = {10.48550/ARXIV.2204.05220},
+  abbr={L3D-IVU},
   url = {https://arxiv.org/abs/2204.05220},
-  author = {Guirguis, K.; Hendawy, A.; Eskandar, G.; Abdelsamad, M.; Kayser, M.; Beyerer, J.},
+  author = {Guirguis, K. and Hendawy, A. and Eskandar, G. and Abdelsamad, M. and Kayser, M. and Beyerer, J.},
   title = {CFA: Constraint-based Finetuning Approach for Generalized Few-Shot Object Detection},
   publisher = {Workshop on Learning with Limited Labelled Data for Image and Video Understanding (L3D-IVU)},
   year = {2022},
   copyright = {arXiv.org perpetual, non-exclusive license},
-  selected={true}
+  selected={true},
+  bibtex_show={true},
+  abstract={Few-shot object detection (FSOD) seeks to detect novel categories with limited data by leveraging prior knowledge from abundant base data.
+            Generalized few-shot object detection (G-FSOD) aims to tackle FSOD without forgetting previously seen base classes and,
+            thus, accounts for a more realistic scenario, where both classes are encountered during test time. While current FSOD methods suffer from
+            catastrophic forgetting, G-FSOD addresses this limitation yet exhibits a performance drop on novel tasks compared to the state-of-the-art FSOD.
+            In this work, we propose a constraint-based finetuning approach (CFA) to alleviate catastrophic forgetting, while achieving competitive results
+            on the novel task without increasing the model capacity. CFA adapts a continual learning method, namely Average Gradient Episodic Memory (A-GEM) to G-FSOD.
+            Specifically, more constraints on the gradient search strategy are imposed from which a new gradient update rule is derived, allowing for better knowledge exchange
+            between base and novel classes. To evaluate our method, we conduct extensive experiments on MS-COCO and PASCAL-VOC datasets. Our method outperforms current FSOD and
+            G-FSOD approaches on the novel task with minor degeneration on the base task. Moreover, CFA is orthogonal to FSOD approaches and operates as a plug-and-play module without
+            increasing the model capacity or inference time.}
 }
 
 
