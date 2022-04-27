@@ -6,4 +6,5 @@ description: Materials for courses I taught.
 nav: true
 ---
 
-No materials are available yet!
+### Teaching assistant
+- "Reinforcement Learning: From Fundamentals to the Deep Approaches" course at TU Darmstadt.
