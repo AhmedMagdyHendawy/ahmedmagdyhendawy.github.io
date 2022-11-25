@@ -83,7 +83,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: blogs as a hoppy  # your blog must have a name for it to show up in the nav bar
+blog_name: blogs as a hobby  # your blog must have a name for it to show up in the nav bar
 blog_description: short blog posts about artificial intelligence, computer vision, and robotics.
 permalink: /blog/:year/:title/
 
