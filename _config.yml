@@ -40,7 +40,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -265,8 +265,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["image_classification"] # these tags will be displayed on the front page of your blog
-display_categories: ["deep_learning"] # these categories will be displayed on the front page of your blog
+display_tags: ["image_classification", "Object_Tracking"] # these tags will be displayed on the front page of your blog
+# display_categories: ["deep_learning"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
