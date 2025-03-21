@@ -19,4 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Mechatronics Engineer who works in the field of Robotics and Artificial Intelligence. I graduated from the German University in Cairo (GUC). I have a master's degree in Information Technology from the University of Stuttgart. Currently, I am pursuing a Ph.D. in Reinforcement Learning.
+I am a third-year PhD. student at the LiteRL and IAS research groups at TU Darmstadt, Germany. My advisors are Prof. Carlo D’Eramo and Prof. Jan Peters. I have a master's degree in Information Technology from the University of Stuttgart, with a specialization in Computer Engineering. In 2019, I graduated from the German University in Cairo (GUC) with a bachelor's degree in Mechatronics Engineering. 
+
+My research delves into the Reinforcement Learning topics of multi-task and continual learning. My research objective is to boost the learning process of agents by leveraging knowledge from multiple tasks learned concurrently or in sequence. I develop RL algorithms that are application agnostic; however, I lean towards robot learning applications.
+
+
