@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-08-5 22:59:00-0400
+date: 2025-03-24 22:59:00-0400
 inline: true
 ---
 
-Our work "It is All Connected: Multi-Task Reinforcement Learning via Mode Connectivity" has been accepted at the European Workshop on Reinforcement Learning (<a href="https://euro-workshop-on-reinforcement-learning.github.io/ewrl18/">EWRL</a> 2025).
+Our Workshop on Inductive Biases in Reinforcement Learning (<a href="https://sites.google.com/view/ibrl-workshop/home">IBRL</a>) 🚀 has been accepted at <a href="https://rl-conference.cc/index.html">RLC 2025</a>.
