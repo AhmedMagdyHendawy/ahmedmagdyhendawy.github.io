@@ -1,13 +1,39 @@
 ---
 ---
-# 2024
+# 2025
+@article{Preprint,
+  abbr={Preprint},
+  url = {https://www.arxiv.org/pdf/2510.02590},
+  title={Use the Online Network If You Can: Towards Fast and Stable Reinforcement Learning},
+  author={Hendawy, A. and Metternich, H. and Vincent, T. and Kallel, M. and Peters, J. and D'Eramo, C.},
+  journal={arXiv preprint arXiv:2510.02590},
+  year={2025},
+  selected={true},
+  bibtex_show={true},
+  abstract={The use of target networks is a popular approach for estimating value functions in deep Reinforcement Learning (RL). While effective, the target network remains a compromise solution that preserves stability at the cost of slowly moving targets, thus delaying learning. Conversely, using the online network as a bootstrapped target is intuitively appealing, albeit well-known to lead to unstable learning. In this work, we aim to obtain the best out of both worlds by introducing a novel update rule that computes the target using the MINimum estimate between the Target and Online network, giving rise to our method, MINTO. Through this simple, yet effective modification, we show that MINTO enables faster and stable value function learning, by mitigating the potential overestimation bias of using the online network for bootstrapping. Notably, MINTO can be seamlessly integrated into a wide range of value-based and actor-critic algorithms with a negligible cost. We evaluate MINTO extensively across diverse benchmarks, spanning online and offline RL, as well as discrete and continuous action spaces. Across all benchmarks, MINTO consistently improves performance, demonstrating its broad applicability and effectiveness.
+            }
+}
+
+@article{EWRL,
+  preview={its_all_connected_preview.gif},
+  url = {https://openreview.net/pdf?id=WKfhk8wizf},
+  title={It is All Connected: Multi-Task Reinforcement Learning via Mode Connectivity},
+  author={Hendawy, A. and Metternich, H. and Peters, J. and Tiboni, G. and D'Eramo, C.},
+  journal={Eighteenth European Workshop on Reinforcement Learning},
+  year={2025},
+  selected={true},
+  bibtex_show={true},
+  abstract={Acquiring a universal policy that performs multiple tasks is a crucial building block in endowing agents with generalized capabilities. To this end, the field of Multi-Task Reinforcement Learning (MTRL) proposes sharing parameters and representations among tasks during the learning process. Still, optimizing for a single solution that is able to perform various skills remains challenging. Recent works attempt to address these challenges using a mixture of experts, though this comes at the cost of additional inference-time complexity. In this paper, we introduce STAR, a novel MTRL algorithm that leverages mode connectivity to share knowledge across single skills, while remaining parameter-efficient at deployment time. Particularly, we show that single-task policies can be linearly connected in policy parameter space to the multi-task policy, i.e., task performance is maintained throughout the linear path connecting the two policies. Our experimental evaluation demonstrates that mode connectivity at training time induces implicit regularization in the multi-task policy, surpassing related baselines on MTRL benchmarks MuJoCo and Metaworld. Furthermore, STAR achieves competitive performance even with methods that retain multiple models at inference time.
+            }
+}
+
 @article{physicsMLSurvey,
   preview={physicsMLSurvey.png},
   url = {https://arxiv.org/pdf/2408.09840},
   title={Machine Learning with Physics Knowledge for Prediction: A Survey},
-  author={Watson, Joe and Song, Chen and Weeger, Oliver and Gruner, Theo and Le, An T and Hansel, Kay and Hendawy, Ahmed and Arenz, Oleg and Trojak, Will and Cranmer, Miles and others},
-  journal={arXiv preprint arXiv:2408.09840},
-  year={2024},
+  author={Watson, J. and Song, C. and Weeger, O. and Gruner, T. and Le, A. T. and Hansel, K. and Hendawy, A. and Arenz, O. and Trojak, W. and Cranmer, M. and others},
+  journal={Transactions on Machine Learning Research},
+  year={2025},
   selected={true},
   bibtex_show={true},
   abstract={This survey examines the broad suite of methods and models for combining machine learning with physics knowledge for prediction and forecast, with a focus on partial differential equations. 
