@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a third-year PhD. student at the LiteRL and IAS research groups at TU Darmstadt, Germany. My advisors are Prof. Carlo D’Eramo and Prof. Jan Peters. I have a master's degree in Information Technology from the University of Stuttgart, with a specialization in Computer Engineering. In 2019, I graduated from the German University in Cairo (GUC) with a bachelor's degree in Mechatronics Engineering. 
+I am a fifth-year Ph.D. candidate in Reinforcement Learning at TU Darmstadt, Germany, where I am affiliated with the LiteRL and IAS research groups. I am supervised by Prof. Carlo D’Eramo and Prof. Jan Peters. I am also affliated to the Hessian.AI research institute. I received my Master’s degree in Information Technology from the University of Stuttgart, specializing in Computer Engineering. Prior to that, I earned my Bachelor’s degree in Mechatronics Engineering from the German University in Cairo (GUC) in 2019.
 
-My research delves into the Reinforcement Learning topics of multi-task and continual learning. My research objective is to boost the learning process of agents by leveraging knowledge from multiple tasks learned concurrently or in sequence. I develop RL algorithms that are application agnostic; however, I lean towards robot learning applications.
+My research focuses on reinforcement learning (RL), where I develop scalable, broadly applicable methods to improve agent learning, with a particular emphasis on multi-task RL and model composition and interaction. My work explores representation learning, mixture-of-experts, model merging, and the optimization structure of RL objectives to enhance generalization, robustness, and sample efficiency. I have also contributed to foundational deep RL algorithms that improve stability and learning efficiency. Currently, I investigate large-scale multi-task learning and the integration of Vision-Language-Action (VLA) models into RL systems, drawing on ideas from both multi-task RL and large language models (LLM) research.
 
 
